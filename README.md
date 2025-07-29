@@ -7,4 +7,4 @@ A simple OTP system that generates 6-digit passcode that expires in 5 minutes fo
 
 ## Usage
  - Run server using ```go run main.go```.
- - Interface with it using ```curl "https://localhost:8080/...``` (use parameters)
+ - Interface with it using ```curl "https://localhost:8080/..."``` (use parameters)
